@@ -6,13 +6,11 @@ def using_times
 	  puts "Wingardium Leviosa"
 	  
 	  attempts_left = attempts_left - 1
-    
-    puts "We still have #{attempts_left} attempts left!"	 
 	 
 	
 	end 
 end
 
-
+puts "We still have #{attempts_left} attempts left!"	
 
 
